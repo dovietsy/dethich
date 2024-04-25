@@ -206,6 +206,7 @@ http://202.150.161.68/spotv2/index.m3u8
 # - - - Kplus  - - - #
 
 #EXTINF: -1 tvg-id = "ksport1hd" group-title="⚽️| Kplus" tvg-logo="https://i.imgur.com/YmnYbvV.jpg", K+SPORT1 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"IZI48Dp9dsaEN4AiQAAY4A","k":"o6ET9Jm2r6a7WGwoG1Z1_A"},{"kty":"oct","kid":"adY48Dp9dsaEN4AiQAAY4A","k":"3V7yg72y9LF5mw2ivdq9Zg"},{"kty":"oct","kid":"dtp8ITp9dsaEN4AiQAAY4A","k":"gE5CLncztFqmyoadw_a4lw"},{"kty":"oct","kid":"Yud8OYl9dsaEN4AiQAAY4A","k":"SbcpMcMPul58uri1RGE1xQ"}],"type":"temporary"}
