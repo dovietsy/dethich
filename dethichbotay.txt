@@ -206,7 +206,7 @@ http://202.150.161.68/spotv2/index.m3u8
 # - - - Kplus  - - - #
 
 #EXTINF: -1 tvg-id = "ksport1hd" group-title="⚽️| Kplus" tvg-logo="https://i.imgur.com/YmnYbvV.jpg", K+SPORT1 HD
-http://dethich.pw/ksport1/index.mpd?ck=eyIyMTkyMzhmMDNhN2Q3NmM2ODQzNzgwMjI0MDAwMThlMCI6ImEzYTExM2Y0OTliNmFmYTZiYjU4NmMyODFiNTY3NWZjIiwiNjlkNjM4ZjAzYTdkNzZjNjg0Mzc4MDIyNDAwMDE4ZTAiOiJkZDVlZjI4M2JkYjJmNGIxNzk5YjBkYTJiZGRhYmQ2NiIsIjc2ZGE3YzIxM2E3ZDc2YzY4NDM3ODAyMjQwMDAxOGUwIjoiODA0ZTQyMmU3NzMzYjQ1YWE2Y2E4NjlkYzNmNmI4OTciLCI2MmU3N2MzOTg5N2Q3NmM2ODQzNzgwMjI0MDAwMThlMCI6IjQ5YjcyOTMxYzMwZmJhNWU3Y2JhYjhiNTQ0NjEzNWM1In0%3D
+
 
 #EXTINF: -1 tvg-id = "ksport2hd" group-title="⚽️| Kplus" tvg-logo="https://i.imgur.com/Uav4zfz.jpg", K+SPORT2 HD
 https://ctrl.laotv.la/live/K+Sport2/index.m3u8
