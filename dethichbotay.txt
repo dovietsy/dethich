@@ -206,7 +206,7 @@ http://202.150.161.68/spotv2/index.m3u8
 # - - - Kplus  - - - #
 
 #EXTINF: -1 tvg-id = "ksport1hd" group-title="⚽️| Kplus" tvg-logo="https://i.imgur.com/YmnYbvV.jpg", K+SPORT1 HD
-
+https://ctrl.laotv.la/live/K+Sport1/index.m3u8
 
 #EXTINF: -1 tvg-id = "ksport2hd" group-title="⚽️| Kplus" tvg-logo="https://i.imgur.com/Uav4zfz.jpg", K+SPORT2 HD
 https://ctrl.laotv.la/live/K+Sport2/index.m3u8
