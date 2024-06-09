@@ -647,8 +647,7 @@ https://node1.olelive.com:6443/live/CCTV4HD/hls.m3u8?token=
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=
 #EXTINF:-1 tvg-id="cctv5phd" group-title="🇨🇳| CCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/62/CCTV5%2B_logo.png/revision/latest/scale-to-width-down/180?cb=20220226104121&path-prefix=vi", CCTV5+
 #EXTVLCOPT:http-user-agent=dovietsy
-#https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8?token=
-https://ctrl.laotv.la/live/CCTV5+/index.m3u8
+https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8?token=
 #EXTINF:-1 tvg-id="cctv6hd" group-title="🇨🇳| CCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/0c/CCTV-6_Logo.png/360px-CCTV-6_Logo.png", CCTV6
 #EXTVLCOPT:http-user-agent=dovietsy
 https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8?token=
