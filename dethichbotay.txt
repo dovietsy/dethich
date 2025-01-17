@@ -249,7 +249,7 @@ https://live.fptplay53.net/
 #EXTVLCOPT:http-user-agent=dovietsy
 https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="dongthap2" group-title="🇻🇳| Địa phươngVieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/07/rvmuq9sp_dong-thap-2_296_168.png", THĐT2 | Đồng Tháp
+#EXTINF:-1 tvg-id="dongthap2" group-title="🇻🇳| Địa phươngFPT" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/07/rvmuq9sp_dong-thap-2_296_168.png", THĐT2 | Đồng Tháp
 #EXTVLCOPT:http-user-agent=dovietsy
 https://live.fptplay53.net/epzsd1/dongthaphd_vhls.smil/chunklist.m3u8
 
